@@ -4,4 +4,4 @@ A visual representation of how a computer goes down the process of finding the s
 
 <img src="preview.png" alt="GUI" width="700" height="700">
 
-GUI made in python using **[pygame](https://pypi.org/project/pygame/)** module.
+GUI made in python using [`pygame`](https://pypi.org/project/pygame/) module.
