@@ -1,5 +1,4 @@
 import pygame
-import math
 from queue import PriorityQueue
 
 WIDTH = 800
@@ -228,5 +227,6 @@ def main(win, width):
                     end = None
                     grid = make_grid(ROWS, width)
     pygame.quit()
+
 
 main(WIN, WIDTH)
