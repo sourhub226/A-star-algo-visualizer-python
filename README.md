@@ -1,6 +1,6 @@
 [![made-with-python](https://img.shields.io/static/v1?label=Made%20with&message=Python&logo=python&labelColor=FFD745&color=3475A7)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/sourhub226/a-star-path-finding-algorithm-visualizer-python/badge)](https://www.codefactor.io/repository/github/sourhub226/a-star-path-finding-algorithm-visualizer-python)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sourhub226/A-star-path-finding-algorithm-visualizer-python/issues)
+[![CodeFactor](https://www.codefactor.io/repository/github/sourhub226/a-star-algo-visualizer-python/badge)](https://www.codefactor.io/repository/github/sourhub226/a-star-algo-visualizer-python)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sourhub226/A-star-algo-visualizer-python/issues)
 ![ViewCount](https://views.whatilearened.today/views/github/sourhub226/A-star-path-finding-algorithm-visualizer-python.svg)
 
 # A* Path Finding Algorithm
